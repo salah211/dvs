@@ -15,7 +15,7 @@ body {
 }
 
 #contains {
-    width: 1000%;
+    width: 100%;
     height: auto;
     background: linear-gradient(to top, #071b4d, #1152f5);
     display: flex;
